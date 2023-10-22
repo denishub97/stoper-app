@@ -1,0 +1,12 @@
+@use "sass:math";
+
+.container {
+  max-width: 600px;
+  height: 120px;
+  margin: 0 auto;
+  display: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
